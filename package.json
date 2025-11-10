@@ -1,0 +1,23 @@
+{
+  "name": "primer_ejemplo_gitflow_carmengil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgilvaz388/Primer_ejemplo_gitflow_carmengil.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgilvaz388/Primer_ejemplo_gitflow_carmengil/issues"
+  },
+  "homepage": "https://github.com/cgilvaz388/Primer_ejemplo_gitflow_carmengil#readme",
+  "dependencies": {
+    "mogoose": "^0.0.1-security"
+  }
+}
