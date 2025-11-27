@@ -1,4 +1,4 @@
-const conector = require("./database/conexion.cjs");
+const conector = require("./database/conexion.js");
 const express = require("express");
 const cors = require("cors");
 const persona_paths = require("./paths/persona.cjs");
