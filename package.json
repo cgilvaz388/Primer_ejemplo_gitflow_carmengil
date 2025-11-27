@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/cgilvaz388/Primer_ejemplo_gitflow_carmengil#readme",
   "dependencies": {
-    "mogoose": "^0.0.1-security"
+    "mogoose": "^0.0.1-security",
+    "mongoose": "^9.0.0"
   }
 }
